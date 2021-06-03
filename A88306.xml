@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Linx Brittannicus, or Contemplations upon the present condition of the kingdome.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88306</idno><idno type="EEBO-CITATION">45578389</idno>
+  <idno type="VID">172312</idno>
+  <idno type="EEBO-PROQUEST">2264174143</idno>
+  
+            <idno type="STC">Wing L2354A</idno>
+            <idno type="STC">ESTC P3109</idno>
+            <idno type="OCLC">45578389</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88306)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172312)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2625:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Linx Brittannicus, or Contemplations upon the present condition of the kingdome.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Christ Church (University of Oxford) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:172312:1"/>
+            <pb n="1" facs="tcp:172312:1"/>
+            <head>Linx Brittannicus, OR CONTEMPLATIONS upon the present condition of the KINGDOME.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He twofold object sea<g ref="char:EOLhyphen"/>son<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble for our specu<g ref="char:EOLhyphen"/>lation, is a noble King happy in his true mise<g ref="char:EOLhyphen"/>ries, and an insulting convention miserable in their seeming happinesse. The first having from his Princely essence, Noblenesse enough to create fortitude; The latter from their ambitious attempts, Uncertainty of event the Parent of Doubt and Feare.</p>
+            <pb n="2" facs="tcp:172312:2"/>
+            <p>Should the intention of the second move to the ruine of the first, their owne mischeife would halt, till their inten<g ref="char:EOLhyphen"/>tion gave it feete to overtake themselves. Pollicy and Allegiance make a happy Prince in a discreete Subject, but a people that mixe Pollicy and Disobedience, make an unhappy Kingdom.</p>
+            <p>Obedience is implicite wisdom, but ill-guided Pollicy excludes Christianity, without which all security is counterfeit.</p>
+            <p>London hath long wrestled like IACOB with Westminster, and got nothing but lamenes; I doubt the Angell will not con<g ref="char:EOLhyphen"/>ferre a blessing, some of them are tyr'd e<g ref="char:EOLhyphen"/>nough with the sleepy Patriarch to lye down and dreame of a ladder while their Angels fly up and down, and their pillow of peace will prove to their considerate sence a stone.</p>
+            <p>If the Scots take the cure in hand, one poyson may expell another; something must succeede to cure the Remedy, else
+<pb n="3" facs="tcp:172312:2"/> the mist that makes Independency vanish may make us wander. He that Drownes or Hangs meetes Death in the same Cen<g ref="char:EOLhyphen"/>ter. HENRY the eigth confind Rome: lea<g ref="char:EOLhyphen"/>ving Rome for Herresies no lesse dange<g ref="char:EOLhyphen"/>rous.</p>
+            <p>True virtue is irrelative to either ex<g ref="char:EOLhyphen"/>treame, and there is hope the House may stand when two contraries winds strive to overthrow it. The Independent cedes to the Presbiterian, and while he seemes to give ground, destroyes his pursuer; thus a flying Scythian shootes backward, the Presbiterian thinks himself Master of the Field while his secure breast receives the unexpected Arrow. When both are either fled or dead, the Kingdome will be with<g ref="char:EOLhyphen"/>out an Army.</p>
+            <p>The noble King (of a molehill, though Master of a heart vast like Pelion upon essa) like the king of true Beasts entangled in the toyle by some improvidence, scorns to fill the eares of the world with com<g ref="char:EOLhyphen"/>plaints
+<pb n="4" facs="tcp:172312:3"/> and roaring; but with a Majesty repining to begg even liberty it sel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, ex<g ref="char:EOLhyphen"/>pects with silence the event of his Bon<g ref="char:EOLhyphen"/>dage; Thus CESAR threw his garment o<g ref="char:EOLhyphen"/>ver his face and dyed perpetuall Dicta<g ref="char:EOLhyphen"/>tor.</p>
+            <p>See what an undesturbd mildnesse his countenance and actions expresse, as if this Eagle were a Dove and had no gall; the mischeife is more then single which thunders upon his soule, the injuries of a dear Wife and a loud Issue come to Crown his patience, a shock worthy the resist<g ref="char:EOLhyphen"/>ance of so confirmd a Prince, Their owne eyes who have been Instruments in this, must pay due tribute to so sad a Contem<g ref="char:EOLhyphen"/>plation, and weepe that only this way is left them to their supposed safety.</p>
+            <p>What are his sufferings? such as would make death in all its horrour to be courted by a carnall apprehention. Dejected IOB in the depth of m sery had triple comfort, and though he chose the Dunghill for a
+<pb n="5" facs="tcp:172312:3"/> repose was unconfind. Heere tis treason for the sonne to begg the Fathers blessing; too much liberty for the Father to be shut up from the sight of his children, and ut<g ref="char:EOLhyphen"/>terly impossible for the counsell of friends to reach his eares; who being in himself so admirable a president, if to them the prime object and motive of imitation and parseverance.</p>
+            <p>Let us dissect and Anatomize the Parli<g ref="char:EOLhyphen"/>ament, whose outside promise the Refor<g ref="char:EOLhyphen"/>mation of Church and Weale, The faire one had some spots in her Face, to cleanse those in a Laver of bloud, we have clouded the glory of her countinance; this purifi<g ref="char:EOLhyphen"/>cation begun at Canterbury, and to do well must end at White-Hall, the ill that they have done cannot be safe &amp;c. like cunning state fencers threatning to strike off petty abuse at the foote of the Com<g ref="char:EOLhyphen"/>mon-wealth, they falsifie and have a care of the head. The designe is not yet ripe for action, the squinting communalty sees
+<pb n="6" facs="tcp:172312:4"/> something, and a Northern plea puts in a Demur, The affections of the Subject must be sounded indirectly, first remove his throne out of the peoples hearts, and then one man may do the rest, something effectual has been long expected in that respect, and now tis come from Rochel a fine Kickshau.</p>
+            <p>The King would not give way to the reliefe of Rochel, and their own King re<g ref="char:EOLhyphen"/>duc't them to due obedience, Dangerous and Exemplary this relates to them<g ref="char:EOLhyphen"/>selves.</p>
+            <p>The next Objection has the same re<g ref="char:EOLhyphen"/>ference, they must pretend something monstrous enough, to busie the eyes of the World, that their own intended mis<g ref="char:EOLhyphen"/>chiefs may be the lesse inquired into: the Kid must be seethed in the Dams milke, the Father dy'd to leave the Son a King<g ref="char:EOLhyphen"/>dome, the Son must not be a King, be<g ref="char:EOLhyphen"/>cause the Father's dead, <hi>Quis nisi Phalaris,</hi> who but such an Artificer could have in<g ref="char:EOLhyphen"/>vented
+<pb n="7" facs="tcp:172312:4"/> such an Engine, Here Machiavel do homage: Did the King consent to vi<g ref="char:EOLhyphen"/>olate his Fathers Age: he is as far above their question, as they are beneath their own justification, who like impious sons would doe no lesse to the father of their Kingdome, the meanest of their allega<g ref="char:EOLhyphen"/>tion wants no other confirmation. If the traine take fire, and blow up the King, power, and person, Look upon the series of his progeny, and this is no security to the Machinators, but the Sun in stead of shining with serenitie upon the King<g ref="char:EOLhyphen"/>dome, wil become a blazing Comet, thret<g ref="char:EOLhyphen"/>ning fire and sword.</p>
+            <p>I hope the better, and believe, that the wisest of them, like expert Generals, keepe their ground, til their Cariages are marcht off, some pretty Voters that pin their re<g ref="char:EOLhyphen"/>solves upon unpremeditated event have not the discretion eyther to perceive their own danger, or the conveyances of their wiser followers.</p>
+            <pb n="8" facs="tcp:172312:5"/>
+            <p>When Souldiers turn Lawyers rapine will prove right; when Law<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers and Souldiers are thus con<g ref="char:EOLhyphen"/>founded, MAGNA CHARTA shall be a Co<g ref="char:EOLhyphen"/>lour displayd at the Commmand of FAIRFAX and CROMWEL. Miserable is their condition whose <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>afety only liues in the opinion of a hir'd-Army, especially when <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hemselves so loath to pay the Hire of their own security</p>
+            <p>If the King may be kept mew'd up, the A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>my fool d, and the Scots bl<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ishd, till the Hou<g ref="char:EOLhyphen"/>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s are finisht at Amsterdam, and the designes An<g ref="char:EOLhyphen"/>ge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s fl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wn to rest on t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Banck beyond the water, then all that can will slip, to scape the collar.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:172312:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
